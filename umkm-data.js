@@ -78,7 +78,7 @@ const umkmData = [
     alamat:
       "Kp. Cikopak, RT 13/RW 05, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
     dusun: "Dusun 1",
-    jenis: "Pertanian",
+    jenis: "Perdagangan",
     produk: "Sembako, bensin, jajanan",
     foto: "foto/warung-bu-iis.jpg",
     peta: "https://www.google.com/maps/place/-6.69453,107.27045",
@@ -403,7 +403,7 @@ const umkmData = [
     alamat:
       "Kp. Sampalan, RT 03, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
     dusun: "Dusun 4",
-    jenis: "Kerajinan",
+    jenis: "Pertanian",
     produk: "Daun Pisang",
     foto: "foto/daunpisangiburini.jpeg",
     peta: "https://maps.app.goo.gl/ME6QmanZqwjGHm4R7",
