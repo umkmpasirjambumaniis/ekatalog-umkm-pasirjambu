@@ -789,7 +789,7 @@ const umkmData = [
     dusun: "Dusun 2",
     jenis: "Perdagangan",
     produk: "Kebutuhan pokok, jajanan, dll.",
-    foto: "foto/warungtatang.png",
+    foto: "foto/warungtatang.jpeg",
     peta: "https://maps.app.goo.gl/Xg459vta2WyUUcrj8?g_st=aw",
   },
    {
@@ -801,7 +801,7 @@ const umkmData = [
     dusun: "Dusun 1",
     jenis: "Kuliner",
     produk: "Jajanan Seblak, Gorengan, Minuman Es",
-    foto: "foto/seblakedod.png",
+    foto: "foto/seblakedod.jpeg",
     peta: "https://maps.app.goo.gl/skC3PShj7nxmRrZU7?g_st=aw",
   },
 ];
