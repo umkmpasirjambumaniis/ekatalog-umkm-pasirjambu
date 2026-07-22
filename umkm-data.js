@@ -121,8 +121,8 @@ const umkmData = [
   },
   {
     id: 8,
-    nama: "Mi Ayam Pak Adung",
-    pemilik: "Pak Adung",
+    nama: "Mi Ayam Pak Adum",
+    pemilik: "Pak Adum",
     alamat:
       "Kp. Cisuren, RT 12/RW 04, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
     dusun: "Dusun 1",
