@@ -427,7 +427,7 @@ const umkmData = [
     alamat:
       "Kp Cijambu, RT 05, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
     dusun: "Dusun 2",
-    jenis: "Perdagangan",
+    jenis: "Kuliner",
     produk: "Warung, Makanan dan Minuman, Jajanan",
     foto: "foto/warungibuana.png",
     peta: "https://maps.app.goo.gl/S7iZKFnZSTp4dC9J6?g_st=aw",
