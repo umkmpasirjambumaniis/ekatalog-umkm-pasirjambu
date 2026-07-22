@@ -458,7 +458,7 @@ const umkmData = [
   },
   {
     id: 36,
-    nama: "Pananjung Mas",
+    nama: "Pinanjung Mas",
     pemilik: "Pa Aceng",
     alamat:
       "Kp. Cimanggu, RT 01, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
