@@ -157,8 +157,8 @@ const umkmData = [
   },
   {
     id: 11,
-    nama: "Warung Teh Ayi",
-    pemilik: "Ayi",
+    nama: "Warung Teh Ai",
+    pemilik: "Ai",
     alamat:
       "Kp. Cimahi, RT 10/RW 03, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
     dusun: "Dusun 3",
