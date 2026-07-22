@@ -145,7 +145,7 @@ const umkmData = [
   },
   {
     id: 10,
-    nama: "Warung Seblak Teh Rani",
+    nama: "Warung Teh Rani",
     pemilik: "Rani Wulansari",
     alamat:
       "Kp. Cimahi, RT 11/RW 04, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
@@ -779,6 +779,30 @@ const umkmData = [
     produk: "Kayu, Kusen, Mebel",
     foto: "foto/mebelpakroni.png",
     peta: "https://maps.app.goo.gl/FgrRx3w6btsEoRXg7?g_st=aw",
+  },
+  {
+    id: 63,
+    nama: "Warung Bapak Tatang",
+    pemilik: "Bapak Tatang",
+    alamat:
+      "Kp. Cijambu, RT 07/RW 07, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
+    dusun: "Dusun 2",
+    jenis: "Perdagangan",
+    produk: "Kebutuhan pokok, jajanan, dll.",
+    foto: "foto/mebelpakroni.png",
+    peta: "https://maps.app.goo.gl/Xg459vta2WyUUcrj8?g_st=aw",
+  },
+   {
+    id: 64,
+    nama: "Seblak Prasmanan Edod",
+    pemilik: "Ibu Dede",
+    alamat:
+      "Kp. Cijambu, RT 03/RW 08, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
+    dusun: "Dusun 1",
+    jenis: "Perdagangan",
+    produk: "Jajanan Seblak, Gorengan, Minuman Es",
+    foto: "foto/mebelpakroni.png",
+    peta: "https://maps.app.goo.gl/skC3PShj7nxmRrZU7?g_st=aw",
   },
 ];
 
