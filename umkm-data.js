@@ -797,9 +797,9 @@ const umkmData = [
     nama: "Seblak Prasmanan Edod",
     pemilik: "Ibu Dede",
     alamat:
-      "Kp. Cijambu, RT 03/RW 08, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
+      "Kp. Sampalan Wetan, RT 03/RW 08, Desa Pasirjambu, Kec. Maniis, Kabupaten Purwakarta, Jawa Barat",
     dusun: "Dusun 1",
-    jenis: "Perdagangan",
+    jenis: "Kuliner",
     produk: "Jajanan Seblak, Gorengan, Minuman Es",
     foto: "foto/mebelpakroni.png",
     peta: "https://maps.app.goo.gl/skC3PShj7nxmRrZU7?g_st=aw",
